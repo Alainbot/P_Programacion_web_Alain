@@ -1,0 +1,22 @@
+p {
+
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    color: #2f2daa;
+}
+    table {
+    
+    width: 100%;
+    border-collapse: collapse;
+     }
+
+     th, td {
+    border: 1px solid #3fda3f;
+    padding: 8px;
+    padding: 8px;
+    text-align: left;
+     }
+     th {
+    
+    background-color: #ac6795;
+     }
